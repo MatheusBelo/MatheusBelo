@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MatheusBelo,eu estouestudando análise e desenvolvimento de sistemas na faculdade pitágoras,no último semestre.
-- 👀 I’m interested in ... Cloud Computing.
-- 🌱 I’m currently learning ... Google Cloud Platform e services na nuvem e Azure DevOps.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MatheusBelo,eu SOU ANALISTA DE SISTEMAS,E MBA EM SEGURANÇA DA INFORMAÇÃO.
+- 👀 I’m interested in ... Cloud Computing e DevOps
+- 🌱 I’m have experience in ... Azure DevOps,Pipelines,Terraform,Git,Gitlab,Jenkins,Docker,Kubernetes,Cloud Azure, and Google Cloud Platform. 
 
 <!---
 MatheusBelo/MatheusBelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
